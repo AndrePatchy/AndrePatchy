@@ -11,4 +11,11 @@ I'm André Oliveira, also know as Patchy, and in 42 as andos-sa.
 
 # Skills
 
-<i class="fab fa-c"></i>
+- C/C++
+- Python
+- MySQL
+- Git
+- VIM
+- VSCode
+- Databricks
+- PowerBI
