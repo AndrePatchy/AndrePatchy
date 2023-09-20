@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"/>
+</div>
+
 # Hello, World! 👋 
 
 I'm André Oliveira, also know as Patchy, and in 42 as andos-sa.
