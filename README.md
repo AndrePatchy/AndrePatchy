@@ -11,6 +11,4 @@ I'm André Oliveira, also know as Patchy, and in 42 as andos-sa.
 
 # Skills
 
-- <i class="fab fa-language"></i> C
-- <i class="fab fa-language"></i> C++
-- <i class="fab fa-language"></i> Python
+<i class="fab fa-c"></i>
