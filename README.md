@@ -4,7 +4,7 @@
 
 # Hello, World! 👋 
 
-I'm André Oliveira, also know as Patchy, and in 42 as andos-sa.
+I'm André Oliveira, also know as Patchy, and at 42 Lisbon as andos-sa.
 
 - 🌱 I’m currently studying `Data Science` at NOVA - Information Management School and `Programming` at 42 Lisbon.
 - 🤝 I have a bachelor in `History` and a master's in `Administration`, both from the University of Coimbra, Coimbra, Portugal.  
