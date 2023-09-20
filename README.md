@@ -4,6 +4,7 @@
   <img src="https://media.giphy.com/media/FgJ6FbfJGwztK/giphy.gif" width="350"/>
 </div>
 
+
 I'm André Oliveira, also know as Patchy, and in 42 as andos-sa.
 
 - 🌱 I’m currently studying `Data Science` at NOVA - Information Management School and `Programming` at 42 Lisbon.
