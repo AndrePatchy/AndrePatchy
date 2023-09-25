@@ -1,9 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/FgJ6FbfJGwztK/giphy.gif" width="350"/>
-  Everyday is a new life! 
 </div>
 
-# Hello, Friend! 👋 
+# Everyday is a new life! 👋 
 
 I'm André Oliveira, also know as Patchy, and at 42 Lisbon as andos-sa.
 
