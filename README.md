@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <p style= Everyday is a new life!</p>
+  <p style= ""Everyday is a new life!</p>
 </div>
 
 # Hello, Friend! 👋 
