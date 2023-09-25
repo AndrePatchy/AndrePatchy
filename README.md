@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/FgJ6FbfJGwztK/giphy.gif" width="350"/>
 </div>
 
----
-
-Everyday is a new life!
+<div align="center">
+  <p style="color: orange;">Everyday is a new life!</p>
+</div>
 
 # Hello, Friend! 👋 
 
