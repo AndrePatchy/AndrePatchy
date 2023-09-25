@@ -1,7 +1,10 @@
-<h1 id="header" align="center">
-  Everyday is a new life!
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/FgJ6FbfJGwztK/giphy.gif" width="350"/>
-</h1>
+</div>
+
+---
+
+Everyday is a new life!
 
 # Hello, Friend! 👋 
 
