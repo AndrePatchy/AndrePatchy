@@ -13,7 +13,6 @@ I'm André Oliveira, also know as Patchy, and at 42 Lisbon as andos-sa.
 - 🤝 I have a bachelor in `History` and a master's in `Administration`, both from the University of Coimbra, Coimbra, Portugal.  
 - 🪂 I have 2+ years of work experience as `researcher` and `project manager`!
 - 🌱 I’m currently studying `Data Science` at University NOVA of Lisbon - Information Management School and `Programming` at 42 Lisbon.
-- 🛠️ Also, managing a team on the education area. In my free time I like to build things.
 - ⚡ Fun fact: I played volleyball for 10+ years. 
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/andrepsoliveira/).
 
