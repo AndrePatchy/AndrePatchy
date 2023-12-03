@@ -16,7 +16,7 @@ I'm André Oliveira, also know as Patchy, and at 42 Lisbon as andos-sa.
 - Fun fact: I played volleyball for 10+ years.
 - Data Science related work [here.](./AndrePatchy/nova-ims)
 - C and Linux Programming [here.](./AndrePatchy/42-piscine)
-— Reach me on [LinkedIn](https://www.linkedin.com/in/andrepsoliveira/)
+- Reach me on [LinkedIn](https://www.linkedin.com/in/andrepsoliveira/)
 
 # Skills
 
