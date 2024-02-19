@@ -10,7 +10,7 @@
 
 I'm André Oliveira, also know as Patchy, and at 42 Lisbon as andos-sa.
 
-- I have a bachelor in `History` and a master's in `Administration`, both from the University of Coimbra. And a post graduation in `Data Science and Analytics` from NOVA-IMS.  
+- I have a bachelor in `History and Geography` and a master's in `Administration`, both from the University of Coimbra. And a post graduation in `Data Science and Analytics` from NOVA-IMS.  
 - I have 4+ years of work experience as `researcher` and `analyst`!
 - I’m currently studying `Computer Science` at 42 Lisbon.
 - __Data Science related work [here.](https://github.com/AndrePatchy/nova-ims)__
