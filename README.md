@@ -14,7 +14,7 @@ I'm André Oliveira, also know as Patchy, and at 42 Lisbon as andos-sa.
 - I have 4+ years of work experience as `researcher` and `analyst`!
 - I’m currently studying `Computer Science` at 42 Lisbon.
 - __Data Science related work [here.](https://github.com/AndrePatchy/nova-ims)__
-- __Computer Science work [here.](https://github.com/AndrePatchy/42-piscine)__
+- __Computer Science work [here.](https://github.com/AndrePatchy/42-common_core)__
 - Reach me on [LinkedIn](https://www.linkedin.com/in/andrepsoliveira/)
 
 # Skills
