@@ -6,7 +6,7 @@
   <p style="">Everyday is a new life!</p>
 </div>
 
-# Hello, Friend! 👋 
+# Hi! 👋 😀
 
 I'm André Oliveira, also know as Patchy, and at 42 Lisbon as andos-sa.
 
