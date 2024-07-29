@@ -11,8 +11,6 @@
 I'm André Oliveira, also known at 42 Lisboa as andos-sa. 
 
 - I am currently a Data Engineer at InnoWave and a Software Development student at 42 Lisboa.
-- __Data Science related work [here.](https://github.com/AndrePatchy/nova-ims)__
-- __Computer Science work [here.](https://github.com/AndrePatchy/42-common_core)__
 - Check my website: www.andrepatchy.github.io.
 - Reach me on [LinkedIn](https://www.linkedin.com/in/andrepsoliveira/)
 
