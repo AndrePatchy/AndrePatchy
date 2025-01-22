@@ -10,5 +10,5 @@
 
 - Data Engineer @ InnoWave
 - Software Development @ 42 Lisboa
-- Check my website: andrepatchy.github.io
+- Check my [website](andrepatchy.github.io)
 - Reach me on [LinkedIn](https://www.linkedin.com/in/andrepsoliveira/)
