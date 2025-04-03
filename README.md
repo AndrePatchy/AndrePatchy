@@ -8,6 +8,6 @@
 
 # Hi! 👋 😀
 
-- Data Engineer @ InnoWave
+- Data Scientist @ InnoWave
 - Software Development @ 42 Lisboa
 - Reach me on [LinkedIn](https://www.linkedin.com/in/andrepsoliveira/)
