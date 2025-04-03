@@ -10,4 +10,4 @@
 
 - Data Scientist @ InnoWave
 - Software Development @ 42 Lisboa
-- Reach me on [LinkedIn](https://www.linkedin.com/in/andrepsoliveira/)
+- I like to build stuff!
