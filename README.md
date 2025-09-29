@@ -8,6 +8,6 @@
 
 # Hi! 👋 😀
 
-- Data Scientist @ InnoWave
+- Software Engineer @ InnoWave
 - Software Development @ 42 Lisboa
 - I like to build stuff!
